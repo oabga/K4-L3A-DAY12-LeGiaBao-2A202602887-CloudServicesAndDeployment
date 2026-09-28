@@ -4,3 +4,21 @@
 
 .git
 .gitignore
+.env
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache
+.coverage
+*.egg-info
+dist
+build
+.DS_Store
+*.log
+.idea
+.vscode
+node_modules
+screenshots
